@@ -1,1 +1,1 @@
-web: gunicorn mytodo.wsgi
+web: gunicorn BoardAPI.wsgi
