@@ -79,7 +79,7 @@ DATABASES = {
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'sogongDB',
+        'NAME': 'sogongDatabase',
         'USER': 'sogong',
         'PASSWORD': 'Sogong2022!?',
         'HOST' : 'yohanas.synology.me',
